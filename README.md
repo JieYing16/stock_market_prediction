@@ -1,4 +1,1 @@
-# stock_market_prediction
-wqd7002-data-science-research-project
-
-Title: Stock Market Forecast for Semiconductor Stocks on Bursa Malaysia: Indicators Investigation and Model Performance Evaluation for Investment Decision
+This is an interactive dashboard, Plotly, as an end product of stock market prediction. 
